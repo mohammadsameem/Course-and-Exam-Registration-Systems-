@@ -1,8 +1,8 @@
-# Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+
+# Reg No:212225040242
+# Name:Mohamed Sameem
+# Date:02-09-2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1402" height="1122" alt="jl" src="https://github.com/user-attachments/assets/7561ecf7-98bd-475f-9096-fd40d2ae0367" />
 
 
 
@@ -59,6 +60,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1512" height="1040" alt="ss" src="https://github.com/user-attachments/assets/64c452c4-0a36-493e-a6f0-f97b792933eb" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="575" height="251" alt="image" src="https://github.com/user-attachments/assets/1fa3c9e6-8401-4bee-a63f-a602b3c32266" />
 
 
 
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="805" height="553" alt="image" src="https://github.com/user-attachments/assets/fe66e449-e7b0-481c-a663-c90bd8519f74" />
 
 
 
@@ -98,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="798" height="742" alt="image" src="https://github.com/user-attachments/assets/fb752df3-9f99-4ece-b111-5642110ffdda" />
 
 
 
@@ -120,6 +126,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="839" height="708" alt="image" src="https://github.com/user-attachments/assets/5cb29b00-6ab4-49f3-a97d-c245f16b01e6" />
 
 
 
